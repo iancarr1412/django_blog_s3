@@ -1,0 +1,10 @@
+migrations
+__pycache__
+README.MD
+*~
+*.pyc
+*.jpeg
+*.jpg
+.env
+aws.json
+aws.1.json
