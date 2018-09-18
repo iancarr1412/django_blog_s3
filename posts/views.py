@@ -1,6 +1,7 @@
 from django.shortcuts import render
 from django. views. generic import TemplateView 
 
-class HomeView(Temp1ateView) : 
-"""Docstring for HomeView. """
-    template _ name = 'home.html'
+class HomeView(TemplateView) : 
+    """Docstring for HomeView. """
+
+    template_name = 'home.html'

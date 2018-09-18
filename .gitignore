@@ -1,9 +1,11 @@
 migrations
 __pycache__
+/static
 *~
 *.pyc
 *.jpeg
 *.jpg
+*.swp
 .env
 aws.json
 aws.1.json
