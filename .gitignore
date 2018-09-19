@@ -1,0 +1,11 @@
+migrations
+__pycache__
+__init__.py
+/static
+/blog_s3/aws
+*~
+*.pyc
+*.jpeg
+*.jpg
+*.swp
+.env
