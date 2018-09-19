@@ -7,6 +7,4 @@ __pycache__
 *.jpg
 *.swp
 .env
-aws.json
-aws.1.json
-aws.*
+/aws
