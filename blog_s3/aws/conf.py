@@ -1,3 +1,5 @@
+#sort out folders system - protect credentials
+
 import datetime
 AWS_ACCESS_KEY_ID = "AKIAI7DBRYA2HYID7GBQ"
 AWS_SECRET_ACCESS_KEY = "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"
